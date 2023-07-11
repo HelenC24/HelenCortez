@@ -1,2 +1,0 @@
-# HelenCortez
-Trabajos y Pruebas
